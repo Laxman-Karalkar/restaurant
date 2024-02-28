@@ -1,0 +1,175 @@
+{
+    "products": [
+      {
+        "id": 101,
+        "title": "HOTDOG",
+        "price": 220,
+        "description":"bright",
+        "image": "https://img.freepik.com/free-photo/grilled-beef-hot-dog-with-ketchup-snack-generative-ai_188544-7829.jpg?size=626&ext=jpg"
+      },
+      {
+        "id": 102,
+        "title": "BURGER",
+        "price": 651,
+        "description":"bright",
+        "image": "https://img.freepik.com/free-photo/grilled-beef-burger-with-fries-cheese-tomato-generative-ai_188544-8466.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=sph"
+      },
+      {
+        "id": 103,
+        "title": "SANDWICH",
+        "price": 985,
+        "description":"bright",
+        "image": "https://img.freepik.com/premium-photo/big-club-sandwich-with-ham-bacon-tomato-cucumber-cheese-eggs-herbs-dark-table_2829-12548.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=sph"
+      },
+      {
+        "id": 104,
+        "price": 500,
+        "description":"bright",
+        "title": "MEXICAN TACOS",
+        "image":"https://img.freepik.com/free-photo/freshly-grilled-beef-vegetable-taco-meal-generative-ai_188544-12120.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=ais"
+      },
+      {
+        "id": 105,
+        "price": 350,
+        "description":"bright",
+        "title": "PIZZA",
+        "image": "https://img.freepik.com/premium-photo/delicious-pizza-floating-air-generative-ai_808510-501.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=sph"
+      },
+     
+      {
+        "title": "FRENCH FRIES",
+        "price": 870,
+        "image": "https://img.freepik.com/premium-photo/french-fries-potato-chips-with-sour-cream-ketchup_1339-142891.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=sph",
+        "id": 106,
+        "description":"bright"
+      },
+      {
+        "title": "MANGO SHAKE",
+        "price": 540,
+        "description":"bright",
+        "image":"https://img.freepik.com/premium-photo/fresh-mango-smoothies_1339-45051.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=ais",
+        "id": 107
+      },
+      {
+        "title": "STRAWBERRY SHAKE",
+        "price": 800,
+        "image": "https://img.freepik.com/premium-photo/strawberry-smoothie_105495-418.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=ais",
+        "id": 108,
+        "description":"bright"
+      },
+      {
+        "title": "CHOCOLATE SHAKE",
+        "price": 800,
+        "image": "https://img.freepik.com/free-photo/gourmet-dark-chocolate-milkshake-with-marshmallow-generative-ai_188544-12363.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=ais",
+        "id": 109,
+        "description":"bright"
+      },
+      {
+        "title": "OREO SHAKE",
+        "price": 800,
+        "image": "https://img.freepik.com/premium-photo/chocolate-milkshake-with-whipped-cream_434193-2928.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=ais",
+        "id": 110,
+        "description":"bright"
+      },
+      {
+      "title": "BANANA SHAKE",
+      "price": 800,
+      "image": "https://img.freepik.com/premium-photo/glass-dirty-banana-cocktail-wooden-table_165536-14312.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=ais",
+      "id": 111,
+      "description":"bright"
+    },{
+      "title": "CHIKOO SHAKE",
+      "price": 800,
+      "image": "https://img.freepik.com/premium-photo/tasty-healthy-chickoo-chikoo-sapota-milkshake-it-s-healthy-fruit-mixed-with-milk-ice-served-glass-colourful-wooden-background-selective-focus_466689-60308.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=ais",
+      "id": 112,
+      "description":"bright"
+    }
+    
+    ],
+   "prod": [
+    {
+      "title": "PASTA",
+      "price": 540,
+      "description":"bright",
+      "image":"https://img.freepik.com/free-photo/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai_188544-9469.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=ais",
+      "id": 113
+    },
+    {
+      "title": "VEG THALI",
+      "price": 800,
+      "image": "https://img.freepik.com/premium-photo/indian-hindu-veg-thali-food-platter-selective-focus_466689-36052.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=ais",
+      "id": 114,
+      "description":"bright"
+    },
+    {
+      "title": "PUMPKIN SOUP",
+      "price": 800,
+      "image": "https://img.freepik.com/premium-photo/pumpkin-cream-soup-with-seeds-herbs-healthy-food_156140-4461.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=ais",
+      "id": 115,
+      "description":"bright"
+    },
+    {
+      "title": "GARLIC BALLS",
+      "price": 800,
+      "image": "https://img.freepik.com/premium-photo/monsoon-special-moong-dal-vada-pakoda-dalwada-pakora-mungdal-bhajiya-yellow-split-gram-fritters-served-with-green-chutney_466689-1282.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=ais",
+      "id": 116,
+      "description":"bright"
+    },
+    {
+    "title": "PANNER GRAVY",
+    "price": 800,
+    "image": "https://img.freepik.com/premium-photo/matar-paneer-curry-recipe-made-using-cottage-cheese-with-green-peas-served-bowl-selective-focus_466689-33106.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=ais",
+    "id": 117,
+    "description":"bright"
+  },{
+    "title": "CHICKEN DISH",
+    "price": 800,
+    "image": "https://img.freepik.com/premium-photo/grilled-chicken-drumsticks-legs-roasted-bbq-with-spices-tomato-salsa-sauce-black-plate_253362-10557.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=ais",
+    "id": 118,
+    "description":"bright"
+  },
+  {
+    "title": "PANNA DESERT",
+    "price": 540,
+    "description":"bright",
+    "image":"https://img.freepik.com/premium-photo/panna-cotta-with-raspberry-syrup-pistachios-berries-mint_131350-474.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=ais",
+    "id": 119
+  },
+  {
+    "title": "PASTRY",
+    "price": 800,
+    "image": "https://img.freepik.com/premium-photo/appetizing-piece-cake-white-background_124715-2753.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=sph",
+    "id": 120,
+    "description":"bright"
+  },
+  {
+    "title": "APPLE DESERT",
+    "price": 800,
+    "image": "https://img.freepik.com/free-photo/delicious-traditional-dessert-assortment_23-2149143314.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=ais",
+    "id": 121,
+    "description":"bright"
+  },
+  {
+    "title": "STRAWBERRY CAKE",
+    "price": 800,
+    "image": "https://img.freepik.com/free-photo/front-view-delicious-cheesecake-with-strawberry-chocolate-oval-plate-dark_140725-105600.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=ais",
+    "id": 122,
+    "description":"bright"
+  },
+  {
+  "title": "BROWNIE",
+  "price": 800,
+  "image": "https://img.freepik.com/premium-photo/high-angle-chocolate-syrup-poured-tower-chocolate-nut-brownies-tray_23-2148357777.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=sph",
+  "id": 123,
+  "description":"bright"
+},{
+  "title": "CHOCOLATE DESERT",
+  "price": 800,
+  "image": "https://img.freepik.com/premium-photo/triple-chocolate-fudge-cake_208978-440.jpg?size=626&ext=jpg&ga=GA1.1.1421864642.1704781671&semt=sph",
+  "id": 124,
+  "description":"bright"
+}
+
+  
+    ]
+  }

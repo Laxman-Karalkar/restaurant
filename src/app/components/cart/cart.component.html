@@ -1,0 +1,83 @@
+<body id="bg1">
+  <div class="container">
+    <br>
+    <ng-container *ngIf="products.length!=0">
+      <div class="table-responsive">
+        <table class="table table-bordered border-primary">
+
+
+          <!--   <div class="card-product">-->
+          <thead class="table table-light">
+            <tr>
+              <th>no</th>
+              <th>name</th>
+              <th>image</th>
+              <th>description</th>
+              <th>price</th>
+              <th>quantity</th>
+              <th>total</th>
+              <th>delete</th>
+            </tr>
+          </thead>
+
+          <tbody>
+            <tr *ngFor="let item of products; let i = index">
+              <td>{{i+1}}</td>
+              <td> {{item.title}}</td>
+              <td><img style="width: 120px;" src="{{item.image}}"></td>
+              <td>{{item.description}}</td>
+              <td>{{item.price}}</td>
+
+              <td>
+                <button (click)="decreaseQuantity(item)">-</button>
+                {{item.quantity}}
+                <button (click)="increaseQuantity(item)">+</button>
+              </td>
+
+              <td>{{item.total}}</td>
+
+
+
+              <td><button class="btn btn-danger" (click)="delete(item)"><i class="fa fa-trash"
+                    aria-hidden="true"></i></button></td>
+
+            </tr>
+          </tbody>
+
+
+          <tr>
+            <td colspan="4"></td>
+            <td><button class="btn btn-danger" (click)="emptycart()">empty cart</button> </td>
+            <td><button class="btn btn-success" routerLink="/menutwo">SHOP MORE</button></td>
+            <td><button class="btn btn-warning" routerLink="/checkout">checkout</button></td>
+            <td><strong>grand total:{{grandtotal | currency:'INR':'symbol':'3.0'}}</strong>
+          </tr>
+
+          <!--</div>-->
+        </table>
+      </div>
+    </ng-container>
+    <br>
+
+
+
+    <!--empty cart-->
+
+    <ng-container *ngIf="products.length==0">
+      <h4 style="text-align: center;">Your Cart is Empty</h4>
+      <!-- <h5>Add Item to Cart</h5>-->
+      <button style="align-items: center;" id="n1" routerLink="/menuone" class="btn btn-dark">SHOP
+        NOW</button><br><br>
+      <!--- <img style="width: 250px;" src="{{imagecart}}">-->
+
+    </ng-container>
+  </div>
+</body>
+
+
+
+
+
+
+
+

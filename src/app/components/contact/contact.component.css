@@ -1,0 +1,22 @@
+#b1 {
+    /* background-color: #FDF7E4;*/
+     background: linear-gradient(90deg, rgba(117, 56, 181, 0.9809173669467787) 0%, rgba(235, 30, 30, 1) 50%, rgba(252, 176, 69, 1) 100%);
+ }
+ 
+ #c1 {
+     background-color: #FAEED1;
+ 
+ }
+ 
+ #c2 {
+     background-color: #DED0B6;
+     background-image: url("https://images.pexels.com/photos/2638026/pexels-photo-2638026.jpeg?auto=compress&cs=tinysrgb&w=600");
+     background-size: cover;
+ 
+ }
+ 
+ #footer01 {
+    /* background-color: #DED0B6;*/
+    background-color:orange;
+    padding:20px;
+ }

@@ -1,0 +1,64 @@
+#r1 {
+    background-image: url("https://png.pngtree.com/background/20230412/original/pngtree-food-gourmet-black-picture-image_2395479.jpg");
+    opacity: 1;
+    background-size: cover;
+
+}
+
+#f1 {
+    color: aliceblue;
+}
+
+#chefbackground {
+    /* background-color:#FFF8C9;*/
+    background-image: url("https://static.vecteezy.com/system/resources/previews/011/845/222/non_2x/aesthetic-abstract-striped-gradient-yellow-and-orange-arrow-frame-wallpaper-illustration-perfect-for-wallpaper-backdrop-postcard-background-banner-vector.jpg");
+
+
+}
+
+#z1 {
+    text-align: center;
+
+}
+
+#z2 {
+    text-align: center;
+}
+
+#v1 {
+    /*background-color:rgb(32, 209, 209);*/
+    background-image: url("https://static.vecteezy.com/system/resources/previews/007/718/309/non_2x/minimalist-dark-gradient-wave-background-simple-design-for-your-website-free-vector.jpg");
+}
+
+#footer01 {
+    background-color:orange;
+    padding:20px;
+   /* background-color: #DED0B6;*/
+}
+
+#star {
+    color: yellow;
+}
+
+#x1 {
+    color: white;
+}
+
+#p1 {
+
+    background-image: url("https://img.freepik.com/photos-premium/melanger-legumes-aliments-isoles-fond-gris_429553-176.jpg?w=2000");
+    background-size: cover;
+
+}
+
+#p2 {
+    color: green;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#bg1 {
+   /* background-color:#FDF7E4;*/
+    background: linear-gradient(90deg, rgba(117, 56, 181, 0.9809173669467787) 0%, rgba(235, 30, 30, 1) 50%, rgba(252, 176, 69, 1) 100%);
+    /* #D0BFFF;*/
+}
